@@ -1,6 +1,6 @@
 let IS_PROD = true;
 const server = IS_PROD ?
-    "https://apnacollegebackend.onrender.com" :
+    "https://video-calling-6zux.onrender.com" :
 
     "http://localhost:8000"
 
